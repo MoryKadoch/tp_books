@@ -1,51 +1,37 @@
 [
   {
-    "id": 3,
-    "title": "Livre 1",
-    "author": "Auteur 3",
-    "price": "254",
-    "description": "Description du livre modif react"
+      "id": 1,
+      "title": "Livre 1",
+      "author": "Auteur 1",
+      "price": 15,
+      "description": "Description du livre 1"
   },
   {
-    "id": 4,
-    "title": "Livre 4",
-    "author": "Auteur 4",
-    "price": 30,
-    "description": "Description du livre 4"
+      "id": 2,
+      "title": "Livre 2",
+      "author": "Auteur 2",
+      "price": 20,
+      "description": "Description du livre 2"
   },
   {
-    "id": 5,
-    "title": "Livre 5",
-    "author": "Auteur 5",
-    "price": 35,
-    "description": "Description du livre 5"
+      "id": 3,
+      "title": "Livre 3",
+      "author": "Auteur 3",
+      "price": 25,
+      "description": "Description du livre 3"
   },
   {
-    "id": 6,
-    "title": "Livre 6",
-    "author": "Auteur 6",
-    "price": 40,
-    "description": "Description du livre 6"
+      "id": 4,
+      "title": "Livre 4",
+      "author": "Auteur 4",
+      "price": 30,
+      "description": "Description du livre 4"
   },
   {
-    "id": 7,
-    "title": "Livre 6",
-    "author": "Auteur 6",
-    "price": 40,
-    "description": "Description du livre 6"
-  },
-  {
-    "id": 8,
-    "title": "Livre 6",
-    "author": "Auteur 6",
-    "price": 40,
-    "description": "Description du livre 6"
-  },
-  {
-    "id": 9,
-    "title": "Livre react",
-    "author": "author",
-    "price": "123456789",
-    "description": "Descrippp"
+      "id": 5,
+      "title": "Livre 5",
+      "author": "Auteur 5",
+      "price": 35,
+      "description": "Description du livre 5"
   }
 ]
